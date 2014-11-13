@@ -1,1 +1,0 @@
-testremote https://github.com/antirez/redis.git
